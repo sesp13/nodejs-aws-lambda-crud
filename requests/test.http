@@ -1,4 +1,4 @@
-@api = https://c7nftp7820.execute-api.us-west-2.amazonaws.com
+@api = https://wgjqad4ock.execute-api.us-west-2.amazonaws.com
 
 GET {{api}}
 
